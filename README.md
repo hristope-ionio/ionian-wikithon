@@ -7,19 +7,21 @@
 
   <details>
   <summary>Δείτε τα αποτελέσματα </summary>
-  ```
-  - island (Q23442)
-  - instance of (P31)
-  - part of (P361)
-  - Corfu (Q121378) - Greek island in the Ionian Sea
-  - Zakynthos (Q144880) - Greek island in the Ionian Sea
-  - Kefalonia (Q178488) - Greek island in the Ionian Sea
-  - Ionian Islands (Q170295) - group of islands in the Ionian Sea
-  - United States of the Ionian Islands (Q1063498)
-  ```  
+    <code>
+      <ul>
+        <li>island (Q23442)</li>
+        <li>instance of (P31)</li>
+        <li>part of (P361)</li>
+        <li>Corfu (Q121378) - Greek island in the Ionian Sea</li>
+        <li>Zakynthos (Q144880) - Greek island in the Ionian Sea</li>
+        <li>Kefalonia (Q178488) - Greek island in the Ionian Sea</li>
+        <li>Ionian Islands (Q170295) - group of islands in the Ionian Sea</li>
+        <li>United States of the Ionian Islands (Q1063498)</li>
+      <ul>
+    </code>
   </details>
-
-
+  <br/>
+  
 2. Δημιουργήστε μία λίστα με τα Ιόνια Νησιά.
 
 3. Δημιουργήστε μία λίστα με τα Ιόνια Νησιά εμφανίζοντας και το label τους.
